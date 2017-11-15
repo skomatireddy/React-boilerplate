@@ -1,4 +1,4 @@
-# UMG Swift Trends (swift-trends-web)
+# # React Boiler plate
 
 ## About:
-The Swift Trends tool was designed with cutting edge Tools & technologies by Data & Analytics team @UMG.
+Made from React https://github.com/react-boilerplate/react-boilerplate
